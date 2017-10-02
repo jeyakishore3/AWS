@@ -1,0 +1,8 @@
+LINKSs
+https://s3.amazonaws.com/cloudformation-examples/
+https://s3.amazonaws.com/cloudformation-examples/AWSCloudFormer.template
+https://s3.amazonaws.com/cloudformation-examples/CloudFormer.template
+https://s3.amazonaws.com/cloudformation-examples/DockerBase.template
+https://s3.amazonaws.com/cloudformation-examples/DockerBaseUbuntu.template
+https://s3.amazonaws.com/cloudformation-examples/S3Creds.template
+https://s3.amazonaws.com/cloudformation-examples/user-guide/others/Lambda%20Cross%20Account-Managed.json
