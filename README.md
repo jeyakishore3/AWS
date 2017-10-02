@@ -2,9 +2,9 @@
 
 CONTENTS:
 
->>Study guide for AWS EC2 services
+1.Study guide for AWS EC2 services (ec2-ug.pdf)
 
->>Ready made Cloud Formation templates for different common Stacks
+2.Ready made Cloud Formation templates for different common Stacks
 
 
 
